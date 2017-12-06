@@ -38,7 +38,7 @@
    * */
   import $ from 'webpack-zepto'
   export default{
-    props:{},
+    props:[],
     components: {},
     data() {
       return {
